@@ -1,6 +1,6 @@
 # Treasure Hunter Game
 
-<a href="https://leshkevichds.github.io/booking-calendar/">Deploy link</a>
+<a href="https://leshkevichds.github.io/treasure-hunter-game/">Deploy link</a>
 
 # Technology stack
 
