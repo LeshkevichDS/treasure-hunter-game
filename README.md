@@ -2,6 +2,6 @@
 
 <a href="https://leshkevichds.github.io/treasure-hunter-game/">Deploy link</a>
 
-# Technology stack
+## Technology stack
 
 PixiJS, JavaScript, HTML, CSS
